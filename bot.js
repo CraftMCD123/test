@@ -3235,5 +3235,5 @@ channel.guild.owner.send(`<@!${channelremover.id}>
 }       });
 
 // THIS  MUST  BE  THIS  WAY
-client.login('NTIxMzUyODgzODQ1OTg4MzYy.Du7QfQ.ahSumv8vJbFTb9YrNvmTUhn9Rx8');
+client.login('');
 			      
